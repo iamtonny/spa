@@ -1,7 +1,7 @@
-# Simple page application
+# SPA Problem
 
-1) создать SPA на чистом js: es5, es6 +.
-2) тематика: отображение времени с возможностью пометить текужий момент и занести его в историю. (Пример: часы, при нажатии на  которые в список(неважно где расположенный) добавляется отметка о текущем времени).
-
+1) Create SPA with js - es5, es6 +.
+2) Topic: component based app that allow you to mark current time and view past markers(Possible list of components: clock component, button that adds new mark(exact time info), list that contains all the marks, mark record)
+3) 
 Желательно:
 3) Архитектура приложения должна быть схожа с react приложением: изначально имеется div с id='app' который при загрузке скрипта заполняеться сгенерированными компонентами.
