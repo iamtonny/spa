@@ -5,7 +5,7 @@
 - Make application accessable through web: heroku, github pages, etc
 - Share you app link
 
-## Best Practice
+## Best Practice(optional)
 - If possible, try not to use react, angular, vue etc. Build it with plain js
 - Recreate react appliation architecture. You can skip optimization issues
 
