@@ -3,7 +3,7 @@
 ## Tasks
 - Create SPA with js - es5, es6 +. Topic: component based app that allow you to mark current time and view past marks(Possible list of components: clock component, button that adds new mark(exact time info), list that contains all the marks, mark record)
 - Make application accessable through web: heroku, github pages, etc
-- Share you app link
+- Share your app link
 
 ## Best Practice(optional)
 - If possible, try not to use react, angular, vue etc. Build it with plain js
