@@ -5,8 +5,9 @@
 - Make application accessable through web: heroku, github pages, etc
 - Share your app link
 
-## Best Practice(optional)
-- If possible, try not to use react, angular, vue etc. Build it with plain js
+## Optional
+- Create express simples server for storing and getting markers
+- If possible, try avoid react, angular, vue etc. Build it with plain js
 - Recreate react appliation architecture. You can skip optimization issues
 
 ## References
